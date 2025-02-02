@@ -19,7 +19,7 @@ Soy un Desarrollador Backend Jr.
 ## Languages and Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python,php,vuejs,react,nodejs,mongodb,mysql,aws,gcp,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,mysql,aws,r,git" />
 </div>
 
 ## GitHub Analytics
