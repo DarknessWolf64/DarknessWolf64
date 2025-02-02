@@ -50,7 +50,7 @@ Soy un Desarrollador Backend Jr.
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=DarknessWolf64&repo=quick-cyber-store&title_color=0084ff&text_color=ffffff&bg_color=000&icon_color=fff" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=DarknessWolf64&repo=quick-cyber-store&title_color=0084ff&text_color=000&bg_color=fff&icon_color=0084ff" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img height = "160em" src="https://github-readme-stats.vercel.app/api/pin/?username=DarknessWolf64&Sistema_Simuladores&theme=default" alt="GitHub Repo" />
+    <img height = "160em" src="https://github-readme-stats.vercel.app/api/pin/?username=DarknessWolf64&repo=Sistema_Simuladores&theme=default" alt="GitHub Repo" />
   </picture>
 </p>
 
