@@ -29,28 +29,28 @@ Soy un Desarrollador Backend Jr.
   <picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=dark&background=000&sideLabels=ffffff&ring=0084FF&fire=0084FF&currStreakLabel=0084FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=default&background=fff&sideLabels=000&ring=0084FF&fire=0084ff&currStreakLabel=0084FF&sideNums=000&currStreakNum=000&dates=000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img height = "170em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=default" alt="GitHub Streak" />
+    <img height = "170em" src="https://github-readme-streak-stats.herokuapp.com/?user=DarknessWolf64&theme=default" alt="GitHub Streak" />
   </picture>
 
   <!-- GitHub Top Languages -->
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&title_color=0084ff&text_color=ffffff&bg_color=000&hide=jupyter%20notebook,c%2B%2B" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&title_color=0084ff&text_color=000&bg_color=fff&hide=jupyter%20notebook,c%2B%2B" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img height = "170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&theme=default" alt="GitHub Top Languages" />
+    <img height = "170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarknessWolf64&layout=compact&theme=default" alt="GitHub Top Languages" />
   </picture>
 
   <!-- GitHub Stats -->
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&title_color=0084ff&text_color=ffffff&bg_color=000&icon_color=0084ff" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&title_color=0084ff&text_color=000&bg_color=fff&icon_color=0084ff" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img height = "160em"  src="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&theme=default" alt="GitHub Stats" />
+    <img height = "160em"  src="https://github-readme-stats.vercel.app/api?username=DarknessWolf64&show_icons=true&theme=default" alt="GitHub Stats" />
   </picture>
 
   <!-- GitHub Repo -->
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&title_color=0084ff&text_color=ffffff&bg_color=000&icon_color=fff" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&title_color=0084ff&text_color=000&bg_color=fff&icon_color=0084ff" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img height = "160em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&theme=default" alt="GitHub Repo" />
+    <img height = "160em" src="https://github-readme-stats.vercel.app/api/pin/?username=DarknessWolf64&repo=quick-cyber-store&theme=default" alt="GitHub Repo" />
   </picture>
 </p>
 
