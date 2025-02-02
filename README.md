@@ -20,7 +20,6 @@ Soy un Desarrollador Backend Jr.
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,r,cpp,c,git,docker,vscode,gcp,mysql,aws,linux" />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5xWmoTvpibR3mYvC6rJT2VurWg6S739FtmQ&s" alt="Clever Cloud Logo" />
 </div>
 
 
