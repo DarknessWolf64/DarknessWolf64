@@ -38,8 +38,6 @@ Soy un Desarrollador Backend Jr, Analista de Datos Jr.
     <img src="https://skillicons.dev/icons?i=html,css,js,python,r,cpp,c,git,docker,vscode,gcp,mysql,aws,flask,tensorflow,pytorch,scikit-learn,keras" />
 </div>
 
-
-
 ## GitHub Analytics
 
 <p align="center" padding-bottom: "25px">
