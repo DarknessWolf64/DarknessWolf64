@@ -19,7 +19,7 @@ Soy un Desarrollador Backend Jr.
 ## Languages and Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,cpp,c,git,docker,vscode,gcp,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,r,cpp,c,git,docker,vscode,gcp,mysql,aws,linux" />
 </div>
 
 
