@@ -9,12 +9,20 @@ Soy un Desarrollador Backend Jr.
 - 📩 Cómo contactarme: [tuemail@gmail.com](mailto:tuemail@gmail.com)
 
 ## 🛠️ Lenguajes y Herramientas
-![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws)
+<div align="center">
+    ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+    ![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r)
+    ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B)
+    ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
+    ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+    ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+    ![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode)
+    ![GCP](https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud)
+    ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+    ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws)
+    ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+</div>
+
 
 ## Languages and Tools
 
