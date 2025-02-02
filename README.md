@@ -5,10 +5,10 @@ Soy un Desarrollador Backend Jr.
 
 ## 🚀 Sobre mí
 - 🎓 Ingeniero en datos e inteligencia organizacional en la universidad del caribe
-- 💻 Apasionado por el desarrollo web con tecnologías como HTML, CSS, JavaScript, PHP, React y Node.js.
+- 💻 Desarrollador de aplicaciones web con APIS funcionales en Flask de python.
 - 📩 Cómo contactarme: [hernadezken123@gmail.com](mailto:hernadezken123@gmail.com)
 
-<h2>🛠️ Lenguajes y Herramientas</h2>
+<h2>🛠️ Lenguajes y Herramientas</h2>De
 
 <div align="center">
     <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5" alt="HTML" />
@@ -24,12 +24,13 @@ Soy un Desarrollador Backend Jr.
     <img src="https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud" alt="GCP" />
     <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" alt="MySQL" />
     <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws" alt="AWS" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" alt="Flask" />
 </div>
 
 ## Languages and Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,r,cpp,c,git,docker,vscode,gcp,mysql,aws" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,r,cpp,c,git,docker,vscode,gcp,mysql,aws,Flask" />
 </div>
 
 
