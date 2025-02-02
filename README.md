@@ -8,7 +8,7 @@ Soy un Desarrollador Backend Jr.
 - 💻 Desarrollador de aplicaciones web con APIS funcionales en Flask de python.
 - 📩 Cómo contactarme: [hernadezken123@gmail.com](mailto:hernadezken123@gmail.com)
 
-<h2>🛠️ Lenguajes y Herramientas</h2>De
+<h2>🛠️ Lenguajes y Herramientas</h2>
 
 <div align="center">
     <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5" alt="HTML" />
