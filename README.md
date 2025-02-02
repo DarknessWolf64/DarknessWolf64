@@ -6,7 +6,7 @@ Soy un Desarrollador Backend Jr.
 ## 🚀 Sobre mí
 - 🎓 Ingeniero en datos e inteligencia organizacional en la universidad del caribe
 - 💻 Apasionado por el desarrollo web con tecnologías como HTML, CSS, JavaScript, PHP, React y Node.js.
-- 📩 Cómo contactarme: [tuemail@gmail.com](mailto:tuemail@gmail.com)
+- 📩 Cómo contactarme: [tuemail@gmail.com](mailto:hernadezken123@gmail.com)
 
 <h2>🛠️ Lenguajes y Herramientas</h2>
 
