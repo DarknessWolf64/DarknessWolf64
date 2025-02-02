@@ -1,11 +1,12 @@
 # ¡Hola! 👋 Soy Kenny 🧑‍💻
-Soy un Desarrollador Backend Jr.
+Soy un Desarrollador Backend Jr, Analista de Datos Jr.
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=tuusuario&color=blue)
 
 ## 🚀 Sobre mí
 - 🎓 Ingeniero en datos e inteligencia organizacional en la universidad del caribe
-- 💻 Desarrollador de aplicaciones web con APIS funcionales en Flask de python.
+- 💻 Desarrollador de aplicaciones web con API.
+- 💻 Analista de datos con experiencia en el uso de Machine Learning.
 - 📩 Cómo contactarme: [hernadezken123@gmail.com](mailto:hernadezken123@gmail.com)
 
 <h2>🛠️ Lenguajes y Herramientas</h2>
@@ -25,13 +26,18 @@ Soy un Desarrollador Backend Jr.
     <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" alt="MySQL" />
     <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws" alt="AWS" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" alt="Flask" />
+    <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/Scikit-learn-000000?style=for-the-badge&logo=scikit-learn" alt="Scikit-learn" />
+    <img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras" alt="Keras" />
 </div>
 
 ## Languages and Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,r,cpp,c,git,docker,vscode,gcp,mysql,aws,flask" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,r,cpp,c,git,docker,vscode,gcp,mysql,aws,flask,tensorflow,pytorch,scikit-learn,keras" />
 </div>
+
 
 
 ## GitHub Analytics
