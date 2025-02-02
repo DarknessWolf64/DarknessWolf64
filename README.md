@@ -8,32 +8,28 @@ Soy un Desarrollador Backend Jr.
 - 💻 Apasionado por el desarrollo web con tecnologías como HTML, CSS, JavaScript, PHP, React y Node.js.
 - 📩 Cómo contactarme: [tuemail@gmail.com](mailto:tuemail@gmail.com)
 
-## 🛠️ Lenguajes y Herramientas
+<h2>🛠️ Lenguajes y Herramientas</h2>
 
 <div align="center">
-    ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5)
-    ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-    ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-    ![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r)
-    ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B)
-    ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
-    ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-    ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
-    ![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode)
-    ![GCP](https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud)
-    ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
-    ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws)
-    ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+    <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3" alt="CSS" />
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" alt="Python" />
+    <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r" alt="R" />
+    <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B" alt="C++" />
+    <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c" alt="C" />
+    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git" alt="Git" />
+    <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker" alt="Docker" />
+    <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode" alt="VSCode" />
+    <img src="https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud" alt="GCP" />
+    <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" alt="MySQL" />
+    <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws" alt="AWS" />
 </div>
-
-
-
 
 ## Languages and Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,cpp,c,git,docker,vscode,gcp,mysql,aws,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,r,cpp,c,git,docker,vscode,gcp,mysql,aws" />
 </div>
 
 
