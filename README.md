@@ -68,6 +68,9 @@ Soy un Desarrollador Backend Jr, Analista de Datos Jr.
 
 ## 🔗 Proyecto Destacado: Sistema Simuladores  
 [🔗 Ver Repositorio (Privado)](https://github.com/DarknessWolf64/Sistema_Simuladores)
+[🔗 Enlace de prouecto desplegado version de prueba]
+(https://sistemasimuladores-production.up.railway.app)
+
 
 
 ## Contribution Graph
