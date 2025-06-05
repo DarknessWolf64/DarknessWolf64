@@ -1,5 +1,5 @@
 # ¡Hola! 👋 Soy Kenny 🧑‍💻
-Soy un Desarrollador Backend Jr, Analista de Datos Jr.
+Soy un Desarrollador Backend Jr, Analista de Datos.
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=tuusuario&color=blue)
 
